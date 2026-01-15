@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
   popup.className = "confirm-popup hidden";
   popup.innerHTML = `
     <div class="confirm-box">
-      <h3>❄️ Confirm Download</h3>
+      <h3>🍃 Confirm Download</h3>
       <p>Are you sure this is the right file?</p>
       <div class="confirm-buttons">
         <button id="confirm-yes">Yes</button>
